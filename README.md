@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Developed this portfolio website using React and Tailwindcss to showcase my skills, projects, and professional journey. Designed with a clean UI and smooth animations to enhance user experience. Deployed on GitHub Pages for easy accessibility.This fast, responsive, and visually appealing website highlights my expertise.
 
-https://github.com/Drutika06/Portfolio/blob/cefd84e72d467034fd0a1fde2056aa94f2d0feb1/Screenshot%202025-02-05%20093653.png
+![image_alt](iamge_url)
 
 
 

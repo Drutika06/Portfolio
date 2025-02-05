@@ -69,5 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Developed this portfolio website using React and Tailwindcss to showcase my skills, projects, and professional journey. Designed with a clean UI and smooth animations to enhance user experience. Deployed on GitHub Pages for easy accessibility.This fast, responsive, and visually appealing website highlights my expertise.
+
 
 

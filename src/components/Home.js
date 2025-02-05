@@ -114,11 +114,7 @@ const Home = () => {
 
         {/* Resume Button */}
         <a
-<<<<<<< HEAD
-          href="https://drive.google.com/file/d/13mYcF01we573Ik0syHCgVZOVqDW8h3hl/view"
-=======
-          href="https://drive.google.com/file/d/16lA09ndmNhBZmd3WN81NgIhcJUnRjzhI/view?usp=sharinggit"
->>>>>>> acdd66f (first commit)
+          href="https://drive.google.com/file/d/13mYcF01we573Ik0syHCgVZOVqDW8h3hl/view?usp=sharing"
           className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white text-lg font-semibold rounded-md hover:bg-blue-700 transition"
         >
           Resume

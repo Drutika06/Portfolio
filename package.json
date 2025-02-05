@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://Drutika06.github.io/Portfolio",
-=======
->>>>>>> acdd66f (first commit)
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -21,11 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-=======
->>>>>>> acdd66f (first commit)
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

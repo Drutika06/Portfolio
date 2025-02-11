@@ -114,7 +114,7 @@ const Home = () => {
 
         {/* Resume Button */}
         <a
-          href="https://drive.google.com/file/d/1pt2BzrOOzF5PRKG-kSeY36g9C5Gugd-9/view"
+          href="https://drive.google.com/file/d/13mYcF01we573Ik0syHCgVZOVqDW8h3hl/view"
           className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white text-lg font-semibold rounded-md hover:bg-blue-700 transition"
         >
           Resume
